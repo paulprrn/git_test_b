@@ -9,3 +9,4 @@ __Create Git Repository__.
 4.  Got a message indication missing __.gitignore__ file in GIT project and selected __Create .gitignore__.  After selecting create, message asking to add the __.gitignore__ file to the repository was desplayed to which I responded __Yes__.
 5.  To add to remote github, went to __VCS__, selected __Import into Version Control__, and selected __Share Project on GitHub__.  Repository, in name of project is automatically created in remote repository.
 6.  Add git_test_b.md to local repository using __git__, __add__.  Committed the change to local repository by selecting __VCS__, __Commit__.  Then pushed the file to the remote repository by using __git__, __push__.
+7.  
